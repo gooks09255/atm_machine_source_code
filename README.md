@@ -1,4 +1,4 @@
-1. git clone https://github.com/gooks09255/atm_source_code.git
+1. git clone https://github.com/gooks09255/atm_machine_source_code.git
 
 2. run html file
 
